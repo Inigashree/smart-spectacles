@@ -32,3 +32,4 @@ Using an ultrasonic sensor and Arduino UNO microcontroller, the device detects n
 ---
 
 ## ⚡ System Architecture
+Ultrasonic Sensor → Arduino UNO → Distance Calculation → Buzzer Alert
